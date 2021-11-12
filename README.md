@@ -6,7 +6,11 @@ Add all the Pthon libraries / dependencies
 #Step2 - Check the inputfile using pandas or read using csv.reader ( 2 ways )
 
 #Step3 - In the <input_file.csv> make sure you have your store list file. ( required file )
-I have used 6 fields ( storename, store#, Latitude, Longitude ,Begindate, Enddate )
+
+I have used 6 fields 
+
+( storename, store#, Latitude, Longitude ,Begindate, Enddate )
+
 example: abc,123,40.0,70.0,date1,date2
 
 #Step4 -  Call the API using the base URL. Add your API KEY 
